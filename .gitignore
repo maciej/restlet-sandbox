@@ -3,3 +3,8 @@
 .settings
 .springBeans
 target
+
+# IDEA files
+*.ipr
+*.iml
+*.iws
